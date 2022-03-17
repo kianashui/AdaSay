@@ -1,3 +1,3 @@
 import cowsay
 
-cowsay.cow("Hello (extinct) World")
+cowsay.cow("Yeah! I use git!")
